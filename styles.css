@@ -32,3 +32,12 @@ h3 {
     display:flex;
     flex:1;
 }
+
+/* !important used to overrule a defined rule-set from bootstrap */
+.img-fluid {
+    border-radius: 20px !important;
+    object-fit: cover;
+    height: 400px;
+    width: 300px;
+    padding: 8px;
+}
