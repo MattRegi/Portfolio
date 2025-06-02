@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+}
+
+.profile-picture {
+    border-radius: 50%;
+}
+
+.intro {
+    height: 600px;
+}
+
+.knowledge {
+    background-color: white;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.knowledge-list {
+    margin: 0;
+    padding: 0;
+}
+
+.icon {
+    height: 1.5em;
+    margin-right: 0.4em;
+    }
+
+.col {
+    display:flex;
+    flex:1;
+}
